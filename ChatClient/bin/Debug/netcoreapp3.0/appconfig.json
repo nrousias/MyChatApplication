@@ -1,0 +1,12 @@
+{
+  "RabbitMQ": {
+    "UserName": "guest",
+    "Password": "guest",
+    "Host": "rabbitmq.stgkaizen.local",
+    "Port": 5672,
+    "VirtualHost": "/"
+  },
+  "Exchange": {
+    "Name": "chat_fnt"
+  } 
+}
